@@ -1,0 +1,21 @@
+{
+  "AdsController": {
+    "adNetwork": "unity",
+    "admobBanner": "",
+    "admobInterstitial": "",
+    "applovinBanner": "",
+    "applovinInterstitial": "",
+    "ApplovinNative": "",
+    "unityGameId": "5302054",
+    "testMode": false,
+    "unityBanner": "Banner_Android",
+    "unityInterstitial": "Interstitial_Android",
+    "personalnative": "https://html-games-pan.netlify.app/c32-XX.png",
+    "personaldirection": "https://play.google.com/store/apps/details?id=",
+    "personalnative2": "https://html-games-pan.netlify.app/c32-XX.png",
+    "personaldirection2": "https://play.google.com/store/apps/details?id=",
+    "modeads": true,
+    "hidedataw": halal,
+    "reviewActive": true
+  }
+}
